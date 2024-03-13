@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="full_name">Muhaimin Ali</string>
+    <string name="title">Associate</string>
+    <string name="phone_number">+1 123-456-7890</string>
+    <string name="social_media">\@muhaimin.ali</string>
+    <string name="email">muhaimin.alidev@gmail.com</string>
+</resources>
